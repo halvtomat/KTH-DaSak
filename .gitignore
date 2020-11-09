@@ -18,3 +18,7 @@
 *.swp
 .vscode/
 
+#ignore GPG messages and keys
+*.asc
+*.pub
+*.gpg
