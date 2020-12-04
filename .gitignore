@@ -22,3 +22,7 @@
 *.asc
 *.pub
 *.gpg
+
+#ignore bin and elf files
+*.elf
+*.bin
