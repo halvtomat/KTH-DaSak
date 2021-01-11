@@ -17,6 +17,7 @@
 *.png
 *.swp
 .vscode/
+__pycache__/
 
 #ignore GPG messages and keys
 *.asc
